@@ -1,0 +1,8 @@
+.title 
+{
+  width: auto;
+  background-color: yellow;
+  text-align: center;
+  border: 5px ridge red;
+  box-shadow: inset 5px 5px rgba(2, 0, 117, 0.418);
+}
